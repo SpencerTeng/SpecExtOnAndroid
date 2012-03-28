@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, SpecExtOnAndroidActivity!</string>
+    <string name="app_name">歌曲資料更新</string>
+    <string name="hint">這支程式會在每兩天晚上檢查您的歌曲是否新增mp3</string>
+    <string name="clickme_update">點我更新</string>
+    <string name="msg_updating">更新中，請稍後</string>
+    <string name="exit_string">按我離開</string>
+
+</resources>
